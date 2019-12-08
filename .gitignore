@@ -1,1 +1,3 @@
 ./.mypy_cache/*
+./nn_numpy/__pycache__/
+./nn_numpy/__pycache__/*
