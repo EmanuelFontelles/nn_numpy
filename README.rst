@@ -1,10 +1,33 @@
-Sample Module Repository
-========================
+Neural Networks from scratch with Numpy
+=======================================
 
-This simple project is an example repo for Python projects.
+Introduction
+------------
 
-`Learn more <http://www.kennethreitz.org/essays/repository-structure-and-python>`_.
+Neural Networks
+~~~~~~~~~~~~~~~
 
----------------
+Some videos to watch and understanding the theory
+behind Neural Networks.
 
-If you want to learn more about ``setup.py`` files, check out `this repository <https://github.com/kennethreitz/setup.py>`_.
+But what is a Neural Network? | Deep learning, chapter 1
+https://www.youtube.com/watch?v=aircAruvnKk
+
+Gradient descent, how neural networks learn | Deep learning, chapter 2
+https://www.youtube.com/watch?v=IHZwWFHWa-w
+
+What is backpropagation really doing? | Deep learning, chapter 3
+https://www.youtube.com/watch?v=Ilg3gGewQ5U
+
+Backpropagation calculus | Deep learning, chapter 4
+https://www.youtube.com/watch?v=tIeHLnjs5U8
+
+Instalation
+-----------
+
+Contributing
+------------
+
+Thanks
+------
+
