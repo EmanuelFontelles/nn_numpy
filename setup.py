@@ -5,20 +5,20 @@
 from setuptools import setup, find_packages
 
 
-with open('README.rst') as f:
+with open('README.md') as f:
     readme = f.read()
 
 with open('LICENSE') as f:
     license = f.read()
 
 setup(
-    name='sample',
-    version='0.1.0',
-    description='Sample package for Python-Guide.org',
+    name='nn_numpy',
+    version='0.0.1',
+    description='A package which contains a simple implementation of neural network with numpy',
     long_description=readme,
-    author='Kenneth Reitz',
-    author_email='me@kennethreitz.com',
-    url='https://github.com/kennethreitz/samplemod',
+    author='Emanuel Fontelles',
+    author_email='emanuelfontelles@hotmail.com',
+    url='https://github.com/EmanuelFontelles/nn_numpy',
     license=license,
     packages=find_packages(exclude=('tests', 'docs'))
 )
